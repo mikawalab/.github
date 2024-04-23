@@ -17,8 +17,8 @@
 3. {アカウントを識別する語}-{リポジトリの内容を表す語}
     - 個人プロジェクトで使用できる
     - 例
-      - `Tonali-8bitGrassSimUnity` : Tonali のUnityシミュレーション用リポジトリ
-      - `kei1st-acoustics-experimental` : kei1st の音響実験用リポジトリ
+      - `Tonali-8bitGrassSimUnity` : tonali さんのUnityシミュレーション用リポジトリ
+      - `kei1st-acoustics-experimental` : kei1st さんの音響実験用リポジトリ
 3. {チームを識別する語}
     - リポジトリ名には 1,2 で使用した接頭辞を用いる
     - チームミーティングの議事録や発表資料など、チームプロジェクト全体に関するメモ置き場として使用できる
