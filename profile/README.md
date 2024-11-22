@@ -55,6 +55,12 @@
 
 複数名で同じサードパーティーリポジトリを使用する場合は、リポジトリ内でブランチを切ることによって作業の衝突を回避することができます。
 
+# Git LFS について
+
+mikawalab は無料版の organization repository なので LFS の容量がめちゃくちゃ少なく使ったら一気に枠がなくなります
+
+一度 LFS に突っ込んだものを削除するのは結構大変なこともあり（ https://zenn.dev/minato86/articles/fb4a06c939c52e ）使用は推奨しません。
+
 # GitHub 入門資料
 
 - [git 公式ドキュメント](https://git-scm.com/book/ja/v2)
